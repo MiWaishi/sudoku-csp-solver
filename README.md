@@ -2,6 +2,10 @@
 
 **Author:** Sitan Chen
 
+## Development timeline
+
+All core development, algorithm design, and debugging were completed locally between July and August 2025. This GitHub repository was prepared later to share the finalized, cleaned-up code, documentation, and test cases publicly. The upload date reflects when the project was published on GitHub, not when the work was originally completed.
+
 This repository compares two C implementations for solving a 9 × 9 Sudoku. Both programs accept the same puzzle input and print the first valid solution. The difference is the order in which they explore the search tree.
 
 ## Repository layout
