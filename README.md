@@ -15,7 +15,7 @@ This repository compares two C implementations for solving a 9 × 9 Sudoku. Both
 
 ## Research paper
 
-[Solving Sudoku: From Generic Backtracking to CSP Optimizations](paper/solving-sudoku-backtracking-to-csp-optimizations.pdf) is the six-page research paper accompanying this repository. It documents the original methodology, algorithm diagrams, and an earlier experimental evaluation.
+[Solving Sudoku: From Generic Backtracking to CSP Optimizations](https://stanchen.dev/r/sudoku-csp/) is the six-page research paper accompanying this repository. It documents the original methodology, algorithm diagrams, and an earlier experimental evaluation.
 
 
 ## Build and run
